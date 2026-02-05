@@ -42,7 +42,7 @@ interpretability, and cross-model or cross-modal synchronization.
 
 ## Model Architecture
 
-![Hybrid Dual-Path Linear Architecture](assets\architecture.PNG)
+![Hybrid Dual-Path Linear Architecture](assets/architecture.PNG)
 
 ## Install and run
 
