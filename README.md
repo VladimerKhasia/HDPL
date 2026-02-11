@@ -10,10 +10,7 @@
 </p>
 
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2601.06959-b31b1b.svg)](...) -->
-
-
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18271930.svg)](https://doi.org/10.5281/zenodo.18271930) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2602.07070-b31b1b.svg)](https://arxiv.org/abs/2602.07070) 
 
 
 
@@ -64,11 +61,19 @@ interpretability, and cross-model or cross-modal synchronization.
 ```
 
 
-<!-- ## Citation
+## Citation
 
 If you utilize this code or the concepts presented in **HDPL** for your research, please cite the following paper:
 
 
-<!-- ```bibtex
-
-``` -->
+```bibtex
+@misc{khasia2026hybriddualpathlineartransformations,
+      title={Hybrid Dual-Path Linear Transformations for Efficient Transformer Architectures}, 
+      author={Vladimer Khasia},
+      year={2026},
+      eprint={2602.07070},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.07070}, 
+}
+``` 
